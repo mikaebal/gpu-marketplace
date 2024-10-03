@@ -14,7 +14,6 @@ The GPU Marketplace is a custom-built website created for an evolving startup co
   - Features an intuitive cart functionality and a streamlined checkout process to enhance user interaction.
 
 ## Languages and Utilities Used
-
 - WordPress
 - Customized Third-Party Theme
 - Plugins
