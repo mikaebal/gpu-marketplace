@@ -24,11 +24,26 @@ The GPU Marketplace is a custom-built website created for an evolving startup co
 
 <div align="center">
 
+### Homepage | Dynamic Search Bar | Product | Product Page
+</br>
+
 ![ezgif com-speed (1)](https://github.com/user-attachments/assets/f472c4e4-3a2d-49a4-b2dd-ad2db6a5ec39)
 
 </br>
 
+### Add to Cart | Cart Page | Checkout
+
+</br>
+
 ![Untitled-ezgif com-speed](https://github.com/user-attachments/assets/66723abe-a026-4524-bb84-4da1750a3dec)
+
+</br>
+
+### Our Services | About Us
+
+</br>
+
+![ezgif com-speed (3)](https://github.com/user-attachments/assets/56714123-d3f3-455c-beaa-06b19a3e05ee)
 
 
 </div>
