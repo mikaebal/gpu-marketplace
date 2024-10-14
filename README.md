@@ -19,3 +19,7 @@ The GPU Marketplace is a custom-built website created for an evolving startup co
 - Plugins
 - HTML
 - CSS
+
+![ezgif com-speed (1)](https://github.com/user-attachments/assets/f472c4e4-3a2d-49a4-b2dd-ad2db6a5ec39)
+
+
